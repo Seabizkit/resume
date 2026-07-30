@@ -1,0 +1,26 @@
+name: Build Resume
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - uses: xu-cheng/latex-action@v3
+      with:
+        root_file: ""
+
+    - uses: pandoc/actions/setup@v1
+
+    - run: |
+        pandoc README.md -o Calvin-Nel-Resume.pdf
+
+    - uses: actions/upload-artifact@v4
+      with:
+        name: Resume
+        path: Calvin-Nel-Resume.pdf
