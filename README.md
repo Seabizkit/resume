@@ -37,7 +37,7 @@ I enjoy solving difficult engineering problems, mentoring developers and designi
 | 24.com (Media24) | Senior Software Developer | Oct 2019 – Jul 2022 |
 | OrderIn | Senior Software Developer | Jan 2019 – Sep 2019 |
 | CSG International | Senior Software Development Engineer | Jun 2017 – Dec 2018 |
-| RCS | Senior Database / Software Developer | Dec 2015 – May 2017 |
+| RCS | Senior Software Developer | Dec 2015 – May 2017 |
 | Alacrity | Analyst Developer | Mar 2011 – Nov 2015 |
 | Khusela Solutions | Intermediate Support Technician | Apr 2010 – Mar 2011 |
 | Parker Hannifin (UK) | Intermediate IT Technician | Apr 2009 – Nov 2009 |
