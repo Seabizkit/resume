@@ -9,41 +9,56 @@
 
 # Professional Summary
 
-Senior Technical Lead with 15+ years of experience designing, building and modernising enterprise software across fintech, media and enterprise environments.
+Senior Technical Lead with 15+ years of experience designing and delivering scalable software solutions across fintech, media and enterprise environments.
 
-I specialise in payment platforms, distributed systems, backend architecture and technical leadership. My experience spans modernising legacy platforms, designing APIs, improving performance, reducing technical debt and leading engineering teams through complex technical delivery.
+I specialise in modernising legacy systems, reducing technical debt and leading engineering teams through complex technical delivery. My focus is on building maintainable software that enables teams to deliver features quickly without sacrificing long-term quality.
 
-I enjoy solving difficult engineering problems, mentoring developers and building software that is simple, maintainable and scalable.
+I enjoy solving difficult engineering problems, mentoring developers and designing systems that are simple, reliable and built to evolve.
 
 ---
 
-# Key Achievements
+# Career Snapshot
 
-- Technical Lead for PayFast's EFT payment platforms.
-- Delivered major banking integrations including **Capitec Pay**, **Nedbank Direct** and **Absa Pay**.
-- Successfully completed **80+ production deployments** with virtually zero rollbacks.
-- Resolved a critical SignalR data isolation issue affecting production.
-- Led architecture and modernisation of multiple legacy payment systems.
-- Improved application and database performance across several high-volume transaction systems.
-- Full ownership of engineering quality including code reviews, sprint planning and production releases.
+- 💼 20+ years in IT
+- 🖥️ 15+ years in professional software development
+- 👨‍💼 Technical Lead since 2022
+- 💳 Extensive fintech and payment platform experience
+- 🏗️ Backend architecture and distributed systems
+- 🚀 80+ successful production deployments
+- 🇿🇦 South African & 🇬🇧 British Citizen
+
+---
+
+# Career History
+
+| Company | Position | Period |
+|---------|----------|--------|
+| PayFast | Senior Lead Developer | Aug 2022 – Present |
+| 24.com (Media24) | Senior Software Developer | Oct 2019 – Jul 2022 |
+| OrderIn | Senior Software Developer | Jan 2019 – Sep 2019 |
+| CSG International | Senior Software Development Engineer | Jun 2017 – Dec 2018 |
+| RCS | Senior Database / Software Developer | Dec 2015 – May 2017 |
+| Alacrity | Analyst Developer | Mar 2011 – Nov 2015 |
+| Khusela Solutions | Intermediate Support Technician | Apr 2010 – Mar 2011 |
+| Parker Hannifin (UK) | Intermediate IT Technician | Apr 2009 – Nov 2009 |
+| Storeys:SSP (UK) | IT Technician | Aug 2004 – Apr 2009 |
 
 ---
 
 # Core Competencies
 
-- Software Architecture
 - Technical Leadership
-- Distributed Systems
-- Payment Platforms
-- API Design
+- Software Architecture
 - Backend Engineering
+- Distributed Systems
+- API Design & Integration
+- Payment Platforms
 - Legacy System Modernisation
 - Performance Optimisation
 - Technical Debt Reduction
-- Microservices
 - DevOps Collaboration
-- Mentoring & Coaching
 - Agile Delivery
+- Mentoring & Coaching
 
 ---
 
@@ -56,21 +71,23 @@ I enjoy solving difficult engineering problems, mentoring developers and buildin
 - JavaScript
 - VB.NET
 
-## Frameworks & Platforms
 
-- .NET Framework
-- .NET Core
-- ASP.NET Core
-- ASP.NET MVC
-- Entity Framework
-- Entity Framework Core
+- ## Frameworks
+
+- .NET Framework 4.0–4.8
+- .NET Core 2.0–3.1
+- .NET 5–10
+- ASP.NET MVC 3–5
+- ASP.NET Core MVC
+- Entity Framework 4–6
+- Entity Framework Core 5–9
 - SignalR
 
-## Data
+## Databases
 
 - SQL Server
-- Redis
 - Oracle
+- Redis
 
 ## Frontend
 
@@ -83,20 +100,21 @@ I enjoy solving difficult engineering problems, mentoring developers and buildin
 
 ## Cloud & DevOps
 
+- Azure
+- Azure DevOps
 - Docker
 - Kubernetes (Rancher)
-- Azure DevOps
-- CI/CD
 - GitHub
-- AWS (working knowledge)
+- CI/CD
+- AWS
 
-## Architecture
+## Architecture & Design
 
 - REST APIs
 - Distributed Systems
 - Domain Driven Design (DDD)
 - Microservices
-- Event-driven Architecture
+- Event-Driven Architecture
 - SOLID Principles
 - Object-Oriented Design
 
@@ -104,43 +122,41 @@ I enjoy solving difficult engineering problems, mentoring developers and buildin
 
 # Professional Experience
 
----
+## Senior Lead Developer
 
-# Senior Lead Developer
-## PayFast
+### PayFast
 
 **August 2022 – Present**
 
-### Overview
+#### Overview
 
-Technical Lead responsible for PayFast's EFT transaction platforms, including SID, USSD and broader EFT systems.
+Technical Lead responsible for PayFast's EFT platforms, including SID, USSD and the wider EFT ecosystem.
 
-Joined as a Senior Developer and immediately assumed Team Lead responsibilities following the departure of the existing lead. Since then, have been responsible for technical direction, architecture, delivery and engineering standards across multiple payment products.
+Joined as a Senior Developer and immediately assumed Team Lead responsibilities following the departure of the existing lead. Since then, I have been responsible for technical direction, solution architecture, engineering standards and successful delivery across multiple payment products.
 
-### Responsibilities
+#### Responsibilities
 
-- Technical leadership for the EFT engineering team.
-- Architecture and design of payment platforms.
-- Delivery planning and sprint ownership.
-- Code reviews and engineering standards.
-- Technical mentoring.
-- Production deployments.
-- Change Requests (CR) and Deployment Requests (DR).
-- Jira planning and backlog management.
-- Cross-team collaboration with business and engineering stakeholders.
+- Lead the EFT engineering team.
+- Drive technical architecture and solution design.
+- Own sprint planning and technical delivery.
+- Perform code reviews and maintain engineering standards.
+- Mentor developers and support technical growth.
+- Manage production deployments.
+- Prepare Change Requests (CR) and Deployment Requests (DR).
+- Collaborate with product owners, business stakeholders and engineering teams.
 
-### Key Achievements
+#### Key Achievements
 
-- Led delivery of Capitec Pay integration.
-- Delivered Nedbank Direct integration alongside other major initiatives.
-- Delivered Absa Pay integration.
+- Led delivery of the Capitec Pay integration.
+- Delivered Nedbank Direct alongside multiple concurrent initiatives.
+- Delivered the Absa Pay integration.
 - Successfully completed 80+ production deployments with virtually zero rollbacks.
 - Resolved a critical SignalR information leakage issue.
 - Improved performance across multiple high-volume payment workflows.
 - Led architecture across multiple overlapping EFT systems.
-- Operated successfully within a team responsible for its own QA and production confidence.
+- Operated successfully within an engineering team responsible for its own QA.
 
-### Technologies
+#### Technologies
 
 - .NET Framework 4.7.2
 - .NET Core / .NET 5–8
@@ -153,84 +169,84 @@ Joined as a Senior Developer and immediately assumed Team Lead responsibilities 
 
 ---
 
-# Senior Software Developer
-## 24.com (Media24)
+## Senior Software Developer
+
+### 24.com (Media24)
 
 **October 2019 – July 2022**
 
-### Highlights
+#### Highlights
 
 - Member of the Core Engineering team.
-- Modernised legacy systems into .NET Core APIs.
-- Worked within Domain Driven Design architecture.
-- Built and maintained microservices.
-- Contributed to DevOps pipelines and CI/CD.
-- Worked with cloud-based services and distributed systems.
+- Modernised legacy applications into .NET Core APIs.
+- Applied Domain Driven Design (DDD) principles and contributed to a microservices architecture.
+- Developed and maintained backend services supporting high-traffic digital platforms.
+- Worked with Azure cloud services and Microsoft Azure DevOps for source control, work management and CI/CD.
+- Collaborated with cross-functional teams using Agile delivery practices.
 
 ---
 
-# Senior Software Developer
-## OrderIn
+## Senior Software Developer
+
+### OrderIn
 
 **January 2019 – September 2019**
 
-### Highlights
+#### Highlights
 
 - Worked across React, .NET MVC and ASP.NET Core services.
 - Assisted migration towards microservices architecture.
-- Implemented IdentityServer4 authentication.
-- Worked with AWS-hosted containerised applications.
-- Contributed across multiple APIs and backend services.
+- Implemented IdentityServer4 authentication and authorisation.
+- Worked with AWS-hosted containerised services.
+- Developed backend APIs supporting multiple applications.
 
 ---
 
-# Senior Software Development Engineer
-## CSG International
+## Senior Software Development Engineer
+
+### CSG International
 
 **June 2017 – December 2018**
 
-### Highlights
+#### Highlights
 
-- Developed enterprise systems using C#, VB.NET, SQL Server and Oracle.
-- Performance optimisation across application and database layers.
-- Code reviews and mentoring.
-- Knowledge sharing across teams.
-- Worked with international engineering teams.
-- Delivered GDPR-related improvements.
+- Developed enterprise applications using C#, VB.NET, SQL Server and Oracle.
+- Optimised application and database performance.
+- Performed code reviews and mentored developers.
+- Shared engineering knowledge and best practices.
+- Collaborated with international engineering teams.
+- Delivered GDPR-related platform improvements.
 
 ---
 
-# Senior Database / Software Developer
-## RCS
+## Senior Database / Software Developer
+
+### RCS
 
 **December 2015 – May 2017**
 
-### Highlights
+#### Highlights
 
 - Sole developer responsible for major financial integration projects.
-- Designed and built Smart Credit integration.
-- Delivered Cash Advance platform.
-- Full lifecycle ownership from architecture through production support.
+- Designed and built the Smart Credit integration platform.
+- Delivered the Cash Advance platform.
+- Owned the full software lifecycle from architecture through production support.
 - Worked closely with retail and financial partners.
 
 ---
 
-# Analyst Developer
-## Alacrity
+## Analyst Developer
+
+### Alacrity
 
 **March 2011 – November 2015**
 
-### Highlights
+#### Highlights
 
-- Delivered enterprise solutions for clients including:
-  - Old Mutual
-  - Bridgestone
-  - I&J
-  - IDS
-  - WyzeTalk
+- Delivered enterprise software for clients including Old Mutual, Bridgestone, I&J, IDS and WyzeTalk.
 - Worked directly with customers on solution design.
-- Full-stack development across Microsoft technologies.
 - Participated in planning, architecture and implementation.
+- Developed full-stack solutions across the Microsoft technology stack.
 
 ---
 
@@ -238,7 +254,7 @@ Joined as a Senior Developer and immediately assumed Team Lead responsibilities 
 
 ## Foundation Degree
 
-**ICT Systems Support**
+**ICT System Support**
 
 University of Northumbria  
 United Kingdom
@@ -271,13 +287,13 @@ Completed courses including:
 
 # Professional Interests
 
-Outside of day-to-day delivery I actively keep up with the latest developments in the .NET ecosystem, particularly around modern application architecture, performance optimisation and emerging platform capabilities.
+I enjoy keeping up with developments across the .NET ecosystem and regularly explore new technologies and engineering practices to improve software quality and developer productivity.
 
-Areas of ongoing interest include:
+Current areas of interest include:
 
 - Native AOT
-- Application performance optimisation
 - Distributed systems
+- Performance optimisation
 - Modern API design
 - Open-source libraries
 - Benchmarking and profiling
