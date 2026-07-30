@@ -2,25 +2,31 @@ name: Build Resume
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
+    paths:
+      - "*.md"
+      - ".github/workflows/build-resume.yml"
+
+  workflow_dispatch:
 
 jobs:
-  pdf:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-    - uses: xu-cheng/latex-action@v3
-      with:
-        root_file: ""
+      - name: Convert Markdown to PDF
+        uses: docker://pandoc/latex:3.8
+        with:
+          args: >
+            README.md
+            --standalone
+            --output=Calvin-Nel-Resume.pdf
 
-    - uses: pandoc/actions/setup@v1
-
-    - run: |
-        pandoc README.md -o Calvin-Nel-Resume.pdf
-
-    - uses: actions/upload-artifact@v4
-      with:
-        name: Resume
-        path: Calvin-Nel-Resume.pdf
+      - name: Upload PDF
+        uses: actions/upload-artifact@v4
+        with:
+          name: resume
+          path: Calvin-Nel-Resume.pdf
