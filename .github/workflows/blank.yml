@@ -1,33 +1,43 @@
-name: Generate README PDF
+name: Generate Resume PDF
 
 on:
   push:
     branches:
       - main
     paths:
-      - 'README.md'
+      - README.md
+      - .github/workflows/generate-pdf.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  convert-to-pdf:
-    name: Build PDF from README
+  pdf:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Check out the repository source code
-      - name: Checkout Code
-        uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v5
 
-      # Step 2: Convert the README.md file into a PDF
-      - name: Convert Markdown to PDF
-        uses: baileyjm02/markdown-to-pdf@v1
-        with:
-          input_path: README.md
-          output_dir: pdf-output
-          build_html: false
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc chromium-browser
 
-      # Step 3: Upload the generated PDF as a downloadable workflow artifact
-      - name: Upload PDF Artifact
-        uses: actions/upload-artifact@v4
+      - name: Generate PDF
+        run: |
+          pandoc README.md \
+            --from=gfm \
+            --pdf-engine=/usr/bin/chromium-browser \
+            -V margin-top=20mm \
+            -V margin-bottom=20mm \
+            -V margin-left=20mm \
+            -V margin-right=20mm \
+            -o Resume.pdf
+
+      - name: Commit PDF
+        uses: stefanzweifel/git-auto-commit-action@v6
         with:
-          name: readme-pdf
-          path: pdf-output/README.pdf
+          commit_message: "Auto-generate Resume.pdf"
+          file_pattern: Resume.pdf
