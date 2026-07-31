@@ -45,6 +45,8 @@ I enjoy solving difficult engineering problems, mentoring developers and designi
 
 ---
 
+<div style="page-break-after: always"></div>
+
 # Core Competencies
 
 - Technical Leadership
@@ -64,23 +66,11 @@ I enjoy solving difficult engineering problems, mentoring developers and designi
 
 # Technical Skills
 
-## Languages
-
-- C#
-- SQL
-- JavaScript
-- VB.NET
-
-
 - ## Frameworks
 
-- .NET Framework 4.0–4.8
-- .NET Core 2.0–3.1
-- .NET 5–10
-- ASP.NET MVC 3–5
-- ASP.NET Core MVC
-- Entity Framework 4–6
-- Entity Framework Core 5–9
+- .NET Framework 4.0–4.8 ⋅ .NET Core 2.0–3.1 ⋅ .NET 5–10
+- ASP.NET MVC 3-5 ⋅ ASP.NET Core MVC 
+- Entity Framework(ef) 4–6 ⋅ ef Core 5–9
 - SignalR
 
 ## Databases
