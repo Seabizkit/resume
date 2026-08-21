@@ -27,7 +27,7 @@ I enjoy solving difficult engineering problems, mentoring developers and designi
 - 👨‍💼 Technical Lead since 2022
 - 💳 Extensive fintech and payment platform experience
 - 🏗️ Backend architecture and distributed systems
-- 🚀 80+ successful production deployments
+- 🚀 100+ successful production deployments
 - 🇿🇦 South African & 🇬🇧 British Citizen
 
 ---
