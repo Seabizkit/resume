@@ -75,7 +75,7 @@ I enjoy solving difficult engineering problems, mentoring developers and designi
 - .NET Core 3.1
 - .NET 5–10
 - ASP.NET MVC 3-5
-- ASP.NET Core MVC 5-10
+- ASP.NET Core MVC 5-10 + preview 11
 - Entity Framework(ef) 4–6
 - ef Core 5–9
 - SignalR
