@@ -75,7 +75,7 @@ I enjoy solving difficult engineering problems, mentoring developers and designi
 - .NET 5–10
 - ASP.NET MVC 3-5
 - ASP.NET Core MVC 5-10 + preview 11
-- Entity Framework(EF) 4–6
+- Entity Framework (EF) 4–6
 - EF Core 5–9
 - SignalR
 
@@ -285,10 +285,10 @@ Completed courses including:
 # Professional Interests
 
 I enjoy keeping up with developments across the .NET ecosystem and regularly explore new technologies and engineering practices to improve software quality and developer productivity.
-AI-assisted development tooling (Cursor, GitHub Copilot, Kiro)
 
 Current areas of interest include:
 
+- AI-assisted development tooling (Cursor, GitHub Copilot, Kiro)
 - Native AOT
 - Distributed systems
 - Performance optimisation
