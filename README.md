@@ -82,7 +82,8 @@ I enjoy solving difficult engineering problems, mentoring developers and designi
 
 ## Databases
 
-- SQL Server
+- MS SQL Server
+- MY SQL (mariadb)
 - Oracle
 - Redis
 
