@@ -69,7 +69,7 @@ I enjoy solving difficult engineering problems, mentoring developers and designi
 
 # Technical Skills
 
-- ## Frameworks
+## Frameworks
 
 - .NET Framework 4.0–4.8
 - .NET 5–10
@@ -88,12 +88,11 @@ I enjoy solving difficult engineering problems, mentoring developers and designi
 
 ## Frontend
 
-- Vue.js
+- Vue.js 2/3
 - JavaScript
-- jQuery
 - Angular
-- HTML
-- CSS
+- HTML / CSS
+- Legacy: jQuery, Knockout.js
 
 ## Cloud & DevOps
 
@@ -152,6 +151,7 @@ Joined as a Senior Developer and immediately assumed Team Lead responsibilities 
 - Resolved a critical SignalR information leakage issue.
 - Improved performance across multiple high-volume payment workflows.
 - Led architecture across multiple overlapping EFT systems.
+- Adopted AI-assisted development tooling (Copilot, Cursor, Kiro) to reduce boilerplate and accelerate delivery, while maintaining rigorous human review so AI augments rather than replaces engineering judgement.
 
 #### Technologies
 
@@ -285,6 +285,7 @@ Completed courses including:
 # Professional Interests
 
 I enjoy keeping up with developments across the .NET ecosystem and regularly explore new technologies and engineering practices to improve software quality and developer productivity.
+AI-assisted development tooling (Cursor, GitHub Copilot, Kiro)
 
 Current areas of interest include:
 
