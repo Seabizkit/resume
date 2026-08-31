@@ -12,11 +12,13 @@ https://github.com/Seabizkit/resume
 
 # Professional Summary
 
-Senior Technical Lead with 15+ years of experience designing and delivering scalable software solutions across fintech, media and enterprise environments.
+Senior Technical Lead and Software Architect with extensive experience designing, evolving and delivering complex software systems across fintech and high-volume transaction platforms.
 
-I specialise in modernising legacy systems, reducing technical debt and leading engineering teams through complex technical delivery. My focus is on building maintainable software that enables teams to deliver features quickly without sacrificing long-term quality.
+My experience spans both legacy and modern .NET ecosystems, giving me a pragmatic understanding of how systems evolve in the real world. I specialise in software architecture, distributed systems, API design, system integration and technical leadership, with a focus on creating solutions that are reliable, maintainable and appropriate to the problem.
 
-I enjoy solving difficult engineering problems, mentoring developers and designing systems that are simple, reliable and built to evolve.
+I bring a hands-on engineering perspective to architecture. Rather than applying patterns or technologies for their own sake, I focus on understanding the constraints of the existing system, the business requirements and the desired future state, then designing an architecture that can realistically get there.
+
+I have led technical direction across complex platforms, balancing architectural improvements with backward compatibility, operational reliability, performance and the practical realities of evolving established systems.
 
 ---
 
