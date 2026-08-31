@@ -83,9 +83,9 @@ I enjoy solving difficult engineering problems, mentoring developers and designi
 ## Databases
 
 - MS SQL Server
-- MY SQL (mariadb)
+- MySQL / MariaDB
 - Oracle
-- Redis
+- Redis (distributed caching)
 
 ## Frontend
 
