@@ -39,7 +39,7 @@ I enjoy solving difficult engineering problems, mentoring developers and designi
 | PayFast | Senior Lead Developer | Aug 2022 – Present |
 | 24.com (Media24) | Senior Software Developer | Oct 2019 – Jul 2022 |
 | OrderIn | Senior Software Developer | Jan 2019 – Sep 2019 |
-| CSG International | Senior Software Development Engineer | Jun 2017 – Dec 2018 |
+| CSG International | Senior Software Developer | Jun 2017 – Dec 2018 |
 | RCS | Senior Software Developer | Dec 2015 – May 2017 |
 | Alacrity | Analyst Developer | Mar 2011 – Nov 2015 |
 | Khusela Solutions | Intermediate Support Technician | Apr 2010 – Mar 2011 |
