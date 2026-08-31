@@ -147,11 +147,11 @@ Joined as a Senior Developer and immediately assumed Team Lead responsibilities 
 - Led delivery of the Capitec Pay integration.
 - Delivered Nedbank Direct alongside multiple concurrent initiatives.
 - Delivered the Absa Pay integration.
-- Successfully completed 200+ production deployments with virtually zero rollback and No down time during deployments. 
+- Drove rigorous code review and enforced testing discipline on all changes, removing the need for a dedicated QA function and delivering 200+ production deployments with virtually zero rollbacks and no downtime.
+- Preserved backward compatibility of API contracts across the service dependency chain, enabling independent, zero-downtime deployments rather than coordinated lockstep releases.
 - Resolved a critical SignalR information leakage issue.
 - Improved performance across multiple high-volume payment workflows.
 - Led architecture across multiple overlapping EFT systems.
-- Operated successfully within an engineering team responsible for its own QA.
 
 #### Technologies
 
